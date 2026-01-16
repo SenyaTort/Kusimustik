@@ -4,6 +4,8 @@ def andmete_lugemine_failidest():
     pass
 
 def andmete_salvestamine_failidesse():
+    lküs=[]
+    lvas=[]
     nküs=input("Sisesta teie küsimus: ")
     nvas=input("Sisesta vastus selle küsimus: ")
 
